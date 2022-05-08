@@ -5,3 +5,4 @@ time.sleep(10)
 print(v1)
 print(v1)
 igjlhkbjlb
+time.sleep(10)
