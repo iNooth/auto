@@ -1,6 +1,13 @@
-import time
 
-v1= "Hello Word"
-time.sleep(10)
-print(v1)
-print(v1)
+import requests
+
+
+alvo = 'colar site aqui'
+
+listas = ["admin", " Painel", "css", "php"]
+r = requests.get(alvo)
+
+for listas in listas:
+  
+  print(alvo + listas)
+
