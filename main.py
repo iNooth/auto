@@ -10,4 +10,4 @@ r = requests.get(alvo)
 for listas in listas:
   
   print(alvo + listas)
-
+sdsd
